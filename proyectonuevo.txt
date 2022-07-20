@@ -1,5 +1,15 @@
 ola mundo
 
-aprendiendo con la mona
+aprendiendo con la mona:
+
+
+ORDEN DE COMANDOS.
+
+git add .  (es para agregar cambios)
+git commit -m " este es para mensajes al cambio"
+git status ( para saber el estado delarchivo)
+git push origin (nombre rama) ( para subir el archivo al github)
+
+
 
 chao pereira
