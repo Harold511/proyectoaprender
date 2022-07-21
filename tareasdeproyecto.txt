@@ -4,3 +4,10 @@ Es la herramienta que nos va a facilitar tener un control de versiones de lo que
 
 
 BASIC COMANDOS:
+git init 
+git commit
+git add
+git status
+git push
+git pull
+git clone
