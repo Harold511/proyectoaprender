@@ -11,3 +11,8 @@ git status
 git push
 git pull
 git clone
+
+
+4 AGOSTO 2022
+
+SIGUINTE CLASE
