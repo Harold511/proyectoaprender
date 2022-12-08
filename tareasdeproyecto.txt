@@ -18,3 +18,4 @@ git clone
 SIGUINTE CLASE
 
 hoy siete de diciembre estoy practicando editando esto en github para ver como me va  a ir
+y este es oto comentario mas que añado
