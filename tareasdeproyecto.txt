@@ -48,3 +48,24 @@ SIGUINTE CLASE
 
 hoy siete de diciembre estoy practicando editando esto en github para ver como me va  a ir
 git clone
+GIT:
+SISTEMA DE CONTROL DE VERSIONES
+Es la herramienta que nos va a facilitar tener un control de versiones de lo que nosotros vallamos aprendiendo e ir teniendo un historial del  avance que tengamos.
+
+
+BASIC COMANDOS:
+git init 
+git commit
+git add
+git status
+git push
+git pull
+git clone
+
+
+4 AGOSTO 2022
+
+SIGUINTE CLASE
+
+hoy siete de diciembre estoy practicando editando esto en github para ver como me va  a ir
+y este es oto comentario mas que añado
