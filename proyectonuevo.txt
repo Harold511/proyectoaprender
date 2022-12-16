@@ -13,3 +13,4 @@ git push origin (nombre rama) ( para subir el archivo al github)
 
 
 chao pereira
+agragando un cambio en rama main
