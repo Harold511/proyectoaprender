@@ -13,4 +13,4 @@ git push origin (nombre rama) ( para subir el archivo al github)
 
 
 chao pereira
-me encuentro haciendo ejercicios con git 
+me encuentro haciendo ejercicios con git
